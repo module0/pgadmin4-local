@@ -1,0 +1,4 @@
+.idea/
+__pycache__/
+pgadmin4_data/
+pgadmin4_env/
